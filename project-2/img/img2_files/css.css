@@ -1,0 +1,56 @@
+.h{
+	height: 400px;
+	width:1000px;
+	background-color: lightgray;
+	margin-top:80px;
+
+}
+.a{
+	height:300px;
+	width:300px;
+	float: left;
+	background-color: white;
+	margin:15px;
+	border-radius: 15px;
+	text-align: center;
+
+}
+.b{
+	height: 300px;
+	width:300px;
+	float: left;
+	background-color:white;
+	margin:15px;
+	border-radius: 15px;
+	text-align: center;
+}
+.c{
+	height: 300px;
+	width:300px;
+	float: right;
+	background-color:white;
+	margin:15px;
+	border-radius: 15px;
+	text-align: center;
+}
+
+.f{
+	font-size: 25px;
+}
+.d{
+	color:gray;
+}
+
+.e{
+	height:30px;
+    width:120px;
+	border-radius:20px;
+	paddhing:20px;
+	border-color:blue;
+	background-color:blue;
+}
+.hr{
+	width:250px;
+	background-color: blue;
+
+}
